@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Users need to choose which outlet they would like to sync to Forstok
+Users can choose existing outlet or new outlet in drop down menu
+Choosing new outlet will create new outlet for user</description>
+   <name>4. Register with sync</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0deb9061-cd7f-4d75-becf-b9eeda9238e8</testCaseGuid>
+</TestCaseEntity>

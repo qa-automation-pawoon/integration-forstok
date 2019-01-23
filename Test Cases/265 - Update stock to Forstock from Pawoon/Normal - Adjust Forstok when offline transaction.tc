@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Normal - Adjust Forstok when offline transaction</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fc24de09-9089-414b-b6d2-2fdb55f74e08</testCaseGuid>
+</TestCaseEntity>

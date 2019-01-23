@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>For every order update from Forstok, Pawoon will receive the status update.
+Pawoon needs to update especially for completed order (to close the transaction) or cancelled order (to void the transaction)</description>
+   <name>Normal - Pawoon receive status update especially for completed order or cancelled order</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6a423ff8-51b2-4a6b-af7c-5fd1ef6b7c51</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Master brand → 256 character limit, allow these punctuation: dot (.), coma (,), apostrophe ('), question mark ( ? ), and exclamation mark ( ! )</description>
+   <name>5. Normal - Master Brand input condition</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2c71fdb0-ff23-4a98-9398-3fc3e7b0266b</testCaseGuid>
+</TestCaseEntity>

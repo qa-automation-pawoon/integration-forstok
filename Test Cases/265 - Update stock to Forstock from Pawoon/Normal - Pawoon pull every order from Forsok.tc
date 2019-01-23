@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Pawoon pull every order from Forstok, then reduce the stock without mark the transaction as done. Then push the adjusted stock to Forstok</description>
+   <name>Normal - Pawoon pull every order from Forsok</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>84ef2b87-b677-468e-a49f-54aa57fee17f</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>After every offline Transaction, Pawoon push the adjusted stock to Forstok
+Adjusted stock: the latest stock quantity, not reduced stock from transaction
+Also happen for every stock updates (stok masuk, stok keluar, stok opname)</description>
+   <name>Normal - Adjust Forstok when offline transaction</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fdb2c6df-d92c-4740-ada5-c2b9b889198b</testCaseGuid>
+</TestCaseEntity>

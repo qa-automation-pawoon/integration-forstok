@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>1. Normal - Weight must be integer</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>97002a3a-575a-46a6-b696-02fc543654ff</testCaseGuid>
+</TestCaseEntity>

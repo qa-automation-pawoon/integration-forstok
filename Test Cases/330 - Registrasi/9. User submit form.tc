@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>After submitting the form, application status will be changed to Menunggu Persetujuan and an email will be sent to Pawoon BD
+Pawoon BD will follow up to Forstok for onboarding.
+Forstok will get back to Pawoon with API Key</description>
+   <name>9. User submit form</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>aa6e2c61-48f2-4639-ac16-bf8420ddffea</testCaseGuid>
+</TestCaseEntity>

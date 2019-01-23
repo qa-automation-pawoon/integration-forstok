@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This flow only for new added products after the integration</description>
+   <name>8. Negative - Post product for existing product</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fd52b866-e017-4246-98b9-0e6cd9fdf6a8</testCaseGuid>
+</TestCaseEntity>
